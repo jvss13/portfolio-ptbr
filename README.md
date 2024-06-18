@@ -1,6 +1,3 @@
-
-![Logo do projeto](https://i.imgur.com/kniMQHu.png)
-
 # Portfolio
 
 Desenvolvedor de Software Experiente no setor de tecnologia, especializei-me em entregar soluções de software robustas e escaláveis. Minha paixão por tecnologia me levou a dominar uma gama completa de habilidades de desenvolvimento, incluindo front-end, back-end e desenvolvimento mobile. 
